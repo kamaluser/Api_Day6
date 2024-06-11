@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\CourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.service\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|solutionrelative:course.service\\mappers\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.service\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|solutionrelative:course.service\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.data\\repostories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|solutionrelative:course.data\\repostories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.data\\repostories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|solutionrelative:course.data\\repostories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.data\\repostories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|solutionrelative:course.data\\repostories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.data\\repostories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|solutionrelative:course.data\\repostories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|solutionrelative:course.service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.service\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|solutionrelative:course.service\\services\\implementations\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FDF1BF-8D3D-4F3C-9B9A-A8B2433EC58D}|Course.Service\\Course.Service.csproj|solutionrelative:course.service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6023BE4-61BF-4302-BED3-D0DB34348D7D}|Course.API\\Course.API.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6023BE4-61BF-4302-BED3-D0DB34348D7D}|Course.API\\Course.API.csproj|solutionrelative:course.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6023BE4-61BF-4302-BED3-D0DB34348D7D}|Course.API\\Course.API.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6023BE4-61BF-4302-BED3-D0DB34348D7D}|Course.API\\Course.API.csproj|solutionrelative:course.api\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.data\\repostories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|solutionrelative:course.data\\repostories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|c:\\users\\kamal\\desktop\\courseapp\\course.data\\repostories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5764BFCD-78C3-44F9-882C-FB7A06324702}|Course.Data\\Course.Data.csproj|solutionrelative:course.data\\repostories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Mappers\\Mapper.cs",
+              "RelativeDocumentMoniker": "Course.Service\\Mappers\\Mapper.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Mappers\\Mapper.cs",
+              "RelativeToolTip": "Course.Service\\Mappers\\Mapper.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwDQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:14:15.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Course.Service\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Course.Service\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:55:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Course.Service\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "Course.Service\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADgv1kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:43:37.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Implementations\\GroupService.cs",
+              "RelativeDocumentMoniker": "Course.Service\\Services\\Implementations\\GroupService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Implementations\\GroupService.cs",
+              "RelativeToolTip": "Course.Service\\Services\\Implementations\\GroupService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:20:44.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Course.Data\\Repostories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Course.Data\\Repostories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:49:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Course.Data\\Repostories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "Course.Data\\Repostories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:48:17.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Course.Data\\Repostories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Course.Data\\Repostories\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:48:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Course.Data\\Repostories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Course.Data\\Repostories\\Implementations\\Repository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:47:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Course.Service\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Service\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "Course.Service\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:24:18.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\Program.cs",
+              "RelativeDocumentMoniker": "Course.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\Program.cs",
+              "RelativeToolTip": "Course.API\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:29:27.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Course.API\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.API\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Course.API\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:32:46.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Course.Data\\Repostories\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "Course.Data\\Repostories\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:48:57.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Implementations\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Course.Data\\Repostories\\Implementations\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\Course.Data\\Repostories\\Implementations\\GroupRepository.cs",
+              "RelativeToolTip": "Course.Data\\Repostories\\Implementations\\GroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T20:48:05.827Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
